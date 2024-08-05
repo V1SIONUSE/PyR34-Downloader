@@ -1,4 +1,4 @@
-# Media Downloader for Rule34
+# Bulk Media Downloader for Rule34
 
 Welcome to the Media Downloader for Rule34! This Python script allows you to download media from the Rule34 API either by searching for posts with specific tags or by downloading a single post directly using its URL.
 
