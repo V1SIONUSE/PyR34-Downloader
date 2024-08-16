@@ -27,7 +27,7 @@ To use this script, you need to have Python and the required libraries installed
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/yourrepository.git
+    git clone https://github.com/V1SIONUSE/PyR34-Downloader.git
     cd yourrepository
     ```
 
